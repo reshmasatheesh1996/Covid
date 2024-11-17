@@ -1,0 +1,43 @@
+{
+  "pieData": {
+    "Karnataka": {
+      "active": 200,
+      "recovered": 300,
+      "deaths": 100
+    },
+    "Maharashtra": {
+      "active": 500,
+      "recovered": 700,
+      "deaths": 200
+    },
+    "Delhi": {
+      "active": 300,
+      "recovered": 400,
+      "deaths": 150
+    }
+  },
+  "lineChart": {
+    "Karnataka": {
+      "active": [50, 70, 100, 90, 120, 150, 200],
+      "recovered": [30, 50, 70, 80, 110, 140, 180],
+      "deaths": [10, 20, 30, 40, 50, 60, 70]
+    },
+    "Maharashtra": {
+      "active": [100, 150, 200, 250, 300, 350, 400],
+      "recovered": [60, 100, 140, 170, 210, 250, 290],
+      "deaths": [20, 30, 50, 70, 90, 110, 130]
+    },
+    "Delhi": {
+      "active": [80, 120, 150, 170, 200, 230, 260],
+      "recovered": [40, 60, 80, 100, 130, 160, 190],
+      "deaths": [10, 15, 25, 35, 45, 60, 75]
+    }
+  },
+  "states": [
+    { "name": "Karnataka", "color": "#ffeb3b", "coordinates": [15.3173, 75.7139] },
+    { "name": "Maharashtra", "color": "#4caf50", "coordinates": [19.7515, 75.7139] },
+    { "name": "Delhi", "color": "#2196f3", "coordinates": [28.6139, 77.2090] },
+    { "name": "Tamil Nadu", "color": "#ff5722", "coordinates": [11.1271, 78.6569] },
+    { "name": "Uttar Pradesh", "color": "#9c27b0", "coordinates": [26.8467, 80.9462] }
+  ]
+}
